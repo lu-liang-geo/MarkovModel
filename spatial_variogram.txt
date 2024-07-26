@@ -1,0 +1,199 @@
+Sampling 30,000 entries from the raw hourly filtered data
+
+Using 'spherical' Variogram Model
+Partial Sill: 45.252988560692636
+Full Sill: 124.16830659010671
+Range: 1160.9692335743819
+Nugget: 78.91531802941407 
+
+
+Using 'spherical' Variogram Model
+Partial Sill: 29.309934459052936
+Full Sill: 116.47299455708175
+Range: 2129.222197551129
+Nugget: 87.16306009802881 
+
+
+Using 'spherical' Variogram Model
+Partial Sill: 23.90598430998606
+Full Sill: 109.09489123350431
+Range: 449.33389813260015
+Nugget: 85.18890692351825 
+
+
+Using 'spherical' Variogram Model
+Partial Sill: 41.62209583864548
+Full Sill: 118.00976630376319
+Range: 620.8624105443218
+Nugget: 76.38767046511771 
+
+
+Using 'spherical' Variogram Model
+Partial Sill: 1.681080893063761e-11
+Full Sill: 108.86063513569928
+Range: 44546.85326656378
+Nugget: 108.86063513568247 
+
+
+Using 'spherical' Variogram Model
+Partial Sill: 30.95396415328526
+Full Sill: 114.8607227396223
+Range: 2330.1033279177136
+Nugget: 83.90675858633705 
+
+
+----------------------------------------------------------------
+
+
+Sampling 35,000 entries from the raw hourly filtered data:
+
+Using 'spherical' Variogram Model
+Partial Sill: 31.122280062955507
+Full Sill: 110.6685008646213
+Range: 1995.4904041581758
+Nugget: 79.54622080166578 
+
+
+----------------------------------------------------------------
+
+
+Sampling 40,000 entries from the raw hourly filtered data:
+
+Using 'spherical' Variogram Model
+Partial Sill: 27.366167724240185
+Full Sill: 116.21567276627833
+Range: 1599.2567386341132
+Nugget: 88.84950504203815 
+
+
+Using 'spherical' Variogram Model
+Partial Sill: 25.269612908790435
+Full Sill: 113.90880111674772
+Range: 1853.8422700628726
+Nugget: 88.63918820795729 
+
+
+Using 'spherical' Variogram Model
+Partial Sill: 27.3319572576417
+Full Sill: 113.1595533797821
+Range: 953.2216103688678
+Nugget: 85.82759612214039 
+
+
+Using 'spherical' Variogram Model
+Partial Sill: 24.84778695302527
+Full Sill: 119.00014606556726
+Range: 123.13532384189608
+Nugget: 94.152359112542 
+
+----------------------------------------------------------------
+
+
+Sampling 30,000 entries from the raw hourly filtered data
+
+Using 'exponential' Variogram Model
+Partial Sill: 32.387750108492504
+Full Sill: 111.42663899190606
+Range: 148.71768867185165
+Nugget: 79.03888888341355 
+
+
+Using 'exponential' Variogram Model
+Partial Sill: 23.313280290604485
+Full Sill: 106.45896047330895
+Range: 339.54180853487077
+Nugget: 83.14568018270447 
+
+
+Using 'exponential' Variogram Model
+Partial Sill: 32.86209207357815
+Full Sill: 113.87163189130465
+Range: 148.87014549654123
+Nugget: 81.00953981772649 
+
+
+----------------------------------------------------------------
+
+
+Sampling 35,000 entries from the raw hourly filtered data
+
+
+Using 'exponential' Variogram Model
+Partial Sill: 36.65194952156556
+Full Sill: 115.11821838360905
+Range: 148.77717540693993
+Nugget: 78.46626886204349 
+
+
+Using 'exponential' Variogram Model
+Partial Sill: 1.3761149892901841e-05
+Full Sill: 115.54583990781694
+Range: 9406.988612003825
+Nugget: 115.54582614666705 
+
+
+----------------------------------------------------------------
+
+
+Sampling 35,000 entries from the raw hourly filtered data
+
+
+Using 'exponential' Variogram Model
+Partial Sill: 36.679461685942364
+Full Sill: 120.56975435241654
+Range: 148.84240146981756
+Nugget: 83.89029266647417 
+
+
+Using 'exponential' Variogram Model
+Partial Sill: 34.746265300107304
+Full Sill: 117.2833593956019
+Range: 148.73327265089029
+Nugget: 82.5370940954946 
+
+
+----------------------------------------------------------------
+
+
+Sampling 40,000 entries from the raw hourly filtered data
+
+
+Using 'exponential' Variogram Model
+Partial Sill: 5.122671157574105e-09
+Full Sill: 111.37050286935828
+Range: 24626.019009120537
+Nugget: 111.3705028642356 
+
+
+Using 'exponential' Variogram Model
+Partial Sill: 10.460042136890397
+Full Sill: 112.86114418324406
+Range: 3681.078765824356
+Nugget: 102.40110204635367 
+
+
+Using 'exponential' Variogram Model
+Partial Sill: 28.54569005515264
+Full Sill: 113.10762497764796
+Range: 148.67830523960134
+Nugget: 84.56193492249531 
+
+
+Using 'exponential' Variogram Model
+Partial Sill: 16.670937155382155
+Full Sill: 109.79092274096251
+Range: 758.7768735264663
+Nugget: 93.11998558558035 
+
+
+----------------------------------------------------------------
+
+
+Sampling 50,000 entries from the raw hourly filtered data
+
+
+Using 'exponential' Variogram Model
+Partial Sill: 30.4889049310313
+Full Sill: 116.51975369267963
+Range: 148.8504759255011
+Nugget: 86.03084876164833 

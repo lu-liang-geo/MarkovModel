@@ -1,0 +1,9 @@
+plots/*
+Reports/*
+results/*
+simulation/*
+data_verification/*
+data/*
+.vscode/*
+.ipynb_checkpoints/*
+__pycache__/*

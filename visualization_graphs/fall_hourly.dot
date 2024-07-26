@@ -1,0 +1,23 @@
+digraph {
+G -> G [label=" 0.96", fontsize="110", penwidth="0.5376000000000001"];
+G -> M[xlabel="0.039 ", fontsize="110", penwidth="8"];
+G [width="4", height="4", fontsize="110", style="filled", fillcolor="lightgrey", label=< <B>G</B> >];
+M -> G [label=" 0.117", fontsize="110", penwidth="3.4748"];
+M -> M [label=" 0.877", fontsize="110", penwidth="1.5888"];
+M -> S [xlabel="0.006 ", fontsize="110", penwidth="8"];
+M [width="4", height="4", fontsize="110", style="filled", fillcolor="lightgrey", label=< <B>M</B> >];
+S -> G [label=" 0.018", fontsize="110", penwidth="4.348400000000001"];
+S -> M [label="0.365", fontsize="110", penwidth="1.5"];
+S -> S [label=" 0.611", fontsize="110", penwidth="8"];
+S [width="1.2845", height="1.2845", fontsize="110", style="filled", fillcolor="lightgrey", label=< <B>S</B> >];
+
+G -> S [label="", fontsize="110", penwidth="0", arrowsize="0"];
+S -> U [label="", fontsize="110", penwidth="0", arrowsize="0"];
+U -> G [label="", fontsize="110", penwidth="0", arrowsize="0"];
+U -> M [label="", fontsize="110", penwidth="0", arrowsize="0"];
+U -> S [label="", fontsize="110", penwidth="0", arrowsize="0"];
+U -> U [label="", fontsize="110", penwidth="0", arrowsize="0"];
+U [width="1.7085", height="1.7085", fontsize="110", style="filled", fillcolor="lightblue", label=< <B>U</B> >];
+
+size="14,14"
+ratio="2"}

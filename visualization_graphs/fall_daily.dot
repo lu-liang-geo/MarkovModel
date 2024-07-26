@@ -1,0 +1,17 @@
+digraph {
+G -> G [label=" 0.783", fontsize="90", penwidth="0.626"];
+G -> M[xlabel="0.217 ", fontsize="90", penwidth="1.8416000000000001"];
+G [width="5", height="5", fontsize="90", style="filled", fillcolor="lightgrey", label=< <B>G</B> >];
+M -> G [label=" 0.385", fontsize="90", penwidth="1.0396"];
+M -> M [label=" 0.615", fontsize="90", penwidth="1.1084"];
+M [width="4.212", height="4.212", fontsize="90", style="filled", fillcolor="lightgrey", label=< <B>M</B> >];
+
+G -> S [label="", fontsize="90", penwidth="0", arrowsize="0"];
+M -> S [label="", fontsize="90", penwidth="0", arrowsize="0"];
+S -> G [label="", fontsize="90", penwidth="0", arrowsize="0"];
+S -> M [label="", fontsize="90", penwidth="0", arrowsize="0"];
+S -> S [label="", fontsize="90", penwidth="0", arrowsize="0"];
+S [width="0.512", height="0.512", fontsize="90", style="filled", fillcolor="lightblue", label=< <B>S</B> >];
+
+size="14,14"
+ratio="2"}
